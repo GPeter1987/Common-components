@@ -1,0 +1,1 @@
+Basic footer while i learning Css and html coding.
