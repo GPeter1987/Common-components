@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="description" content="Flat button example">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>JS Bin</title>
+</head>
+<body>
+  <h2>Flat button examle</h2>
+  <a href="#" class="button">Pevius</a>
+  <a href="#" class="button">Next</a>
+
+</body>
+</html>
